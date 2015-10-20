@@ -1,3 +1,13 @@
+### Tuts+ Tutorial: Getting Started With React
+
+#### Instructor: Tom Whitbread
+
+React helps you rapidly build state of the art isomorphic websites via it's components, data-bindings and View layer controls. Enabling you to have more power and precision on your UI layer. In this tutorial we discuss how to get started and create your first component in React, we'll also use a Yeoman generator to get a fullstack example setup. This repository contains all of the files used in this tutorial. 
+ 
+Source files for the Tuts+ tutorial: [Getting Started With React](http://code.tutsplus.com/articles/getting-started-with-react--cms-25031)
+
+**Available on Tuts+ TBD**
+
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 [![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>
